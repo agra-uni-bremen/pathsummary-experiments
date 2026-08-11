@@ -1,0 +1,9 @@
+.cproject
+.project
+.settings/
+build/
+test/
+docker-error
+.idea/
+venv/
+cmake-build-debug/

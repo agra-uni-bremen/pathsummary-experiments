@@ -1,0 +1,7 @@
+.cproject
+.project
+.settings/
+build/
+systemc-*/
+systemc-*.tar.gz
+.idea/
